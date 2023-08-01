@@ -1,2 +1,2 @@
 # Personal-Technical-Portfolio-Documentation
-https://kandhalakiran.github.io/myportfolio-/
+Link to see the project: https://kandhalakiran.github.io/myportfolio-/
